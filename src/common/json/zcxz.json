@@ -1,0 +1,73 @@
+{
+  "count": "2",
+  "details": [
+    {
+      "id":0,
+      "type": 0,
+      "trackState": 2,
+      "createTime": "2018-01-03 13:26:54",
+      "updateTime": "2018-01-04 13:26:54",
+      "searchNum": {
+        "crossingData": [
+          "锡沪路2公里",
+          "锡沪路3公里",
+          "锡沪路4公里",
+          "锡沪路6公里",
+          "锡沪路8公里"
+        ],
+        "beginTime": "2018-01-05 13:26:54",
+        "endTime": "2018-01-06 18:46:03",
+        "similarity": 0.75,
+        "color": 2,
+        "plateNumber": "苏BW501G",
+        "brand": "大众",
+        "carType":0,
+        "imgData":[
+          {
+            "uid":-1,
+            "name":"车图片",
+            "status":"done",
+            "url":"/pic/pic-zz/pic.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id":"1",
+      "type": 1,
+      "trackState": 2,
+      "createTime": "2017-12-29 13:26:54",
+      "updateTime": "2017-12-30 13:26:54",
+      "searchNum": {
+        "crossingData": [
+          "锡沪路2公里",
+          "锡沪路3公里",
+          "锡沪路4公里",
+          "锡沪路6公里",
+          "锡沪路8公里"
+        ],
+        "beginTime": "2018-01-01 10:06:35",
+        "endTime": "2018-01-02 15:46:15",
+        "similarity": 0.65,
+        "sex": 0,
+        "skin": 0,
+        "posture": 1,
+        "hair": 0,
+        "clothesColor": 2,
+        "action": 5,
+        "glasses": 2,
+        "cap":0,
+        "beginAge": 35,
+        "endAge": 45,
+        "imgData":[
+          {
+            "uid":-2,
+            "name":"人图片",
+            "status":"done",
+            "url":"/pic/pic-zz/pic2.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
